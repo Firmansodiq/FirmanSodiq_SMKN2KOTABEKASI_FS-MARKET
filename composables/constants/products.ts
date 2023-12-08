@@ -1,0 +1,38 @@
+export const products = [
+  {
+    id: 3,
+    name: "Fried Chicken",
+    category: "Makanan",
+    price: 5,
+    image: "/FriedChicken.jpg",
+    isCart: false,
+    description: "Ayam Goreng Crispy",
+  },
+  {
+    id: 4,
+    name: "Chicken Nugget",
+    category: "Makanan",
+    price: 3,
+    image: "/ChickenNugget.jpg",
+    isCart: false,
+    description: "Nugget Ayam Crispy",
+  },
+  {
+    id: 5,
+    name: "Coca Cola",
+    category: "Minuman",
+    price: 2,
+    image: "/CocaCola.jpg",
+    isCart: false,
+    description: "Minuman Bersoda Yang Menyegarkan",
+  },
+  {
+    id: 7,
+    name: "Pepsi",
+    category: "Minuman",
+    price: 3,
+    image: "/Pepsi.jpg",
+    isCart: false,
+    description: "Minuman Soda Yang Menyegarkan",
+  },
+];
